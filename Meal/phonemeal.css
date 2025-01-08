@@ -1,0 +1,31 @@
+body{
+
+}
+.navbar{
+flex-direction: column;
+}
+
+.home{
+   padding:  2px 70px;
+   height: 280px;
+   flex-direction: column;
+}
+.home::before{
+    height: 460px;
+}
+.service-content .services{
+ flex-direction: column;
+}
+.find-us{
+overflow: hidden;
+}
+.orderinfo{
+
+}
+.home h1{
+    font-size: 1.7em;
+}
+button{
+    font-size: 10px;
+    padding: 2px 4px;
+}
